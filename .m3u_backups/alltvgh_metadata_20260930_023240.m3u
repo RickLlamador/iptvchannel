@@ -5,46 +5,38 @@ http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87
 http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="AbanteTV.ph" tvg-name="Abante TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" tvg-country="PH" tvg-language="eng" group-title="All Favorite",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-id="TagalizedMovieChannel.ph" tvg-name="Tagalized Movie Channel" tvg-logo="https://i.imgur.com/jr9Qm2M.png" tvg-country="PH" tvg-language="tgl" group-title="General",Tagalized Movie Channel
-http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-name="TV5 Kapatid" tvg-country="PH" tvg-language="eng;fil" group-title="General",TV5 Kapatid
-http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-name="Kapamilya Online Live" tvg-logo="https://i.ytimg.com/vi/Z56IiCjWH6Y/hqdefault.jpg" tvg-country="PH" tvg-language="eng;fil" group-title="YouTube",Kapamilya Online Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1790579708/ei/nL-5at3AHb6v2roPm5mVuQo/ip/124.6.164.234/id/Z56IiCjWH6Y.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51929568/txs/51929566%2C51929567%2C51929568/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/gcr/ph/bui/AWzQHwpcCaiMkTGJxceA5KZn8XTz2OaFrh2vDUMy_NMPK0jOaslTFnDG8PjeeLfHObuxGuug3t2xJ4-s/spc/I-rgIc4PJYNOQJnLDgb2yORqIFrpKTTJc54qDIfZbR0vb33fZxphZp2OC6lqnNE/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52112904%2C52178456%2C52227522/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRgIhAI-PK-McgAGsw2pCVY74C6hThcbiXnpE3JMzo5LI6XajAiEAkbs4wJAt8jBlpvau-y4VRQe6advLuQunsMgbA8RE0rs%3D/file/index.m3u8
-#EXTINF:-1 tvg-name="GMA" tvg-country="PH" tvg-language="eng;fil" group-title="All Favorite",GMA
-http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-id="INCTV.ph" tvg-name="INC TV" tvg-logo="https://i.imgur.com/iC11uWK.png" tvg-country="PH" tvg-language="tgl" group-title="Religious",INC TV (1080p)
-https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
-#EXTINF:-1 tvg-id="LivingAsiaChannel.ph" tvg-name="Living Asia Channel" tvg-logo="https://i.imgur.com/q3UToRM.png" tvg-country="PH" tvg-language="eng;tgl" group-title="Travel",Living Asia Channel (1080p)
-https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
-#EXTINF:-1 tvg-id="MindanowNetworkTV.ph" tvg-name="Mindanow Network TV" tvg-logo="https://i.imgur.com/xBlYirh.jpeg" tvg-country="PH" tvg-language="eng;tgl;ceb" group-title="General",Mindanow Network TV (1080p)
-https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
+#EXTINF:-1 tvg-id="ADNTVPlus.fr" tvg-name="ADN TV+" tvg-logo="https://i.imgur.com/HQZQyWt.png" tvg-country="FR" tvg-language="fra" group-title="Animation",ADN TV+ (720p)
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-name="Aniplus Asia" tvg-logo="https://i.imgur.com/Im3MePy.png" tvg-country="SG" tvg-language="eng" group-title="Animation",Aniplus Asia (720p)
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph" tvg-name="Bilyonaryo News Channel" tvg-logo="https://i.imgur.com/iTH9Z0j.png" tvg-country="PH" tvg-language="eng;fil" group-title="News",Bilyonaryo News Channel (1080p) [Geo-blocked]
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph" tvg-name="Bilyonaryo News Channel" tvg-logo="https://i.imgur.com/iTH9Z0j.png" tvg-country="PH" tvg-language="eng;fil" group-title="News",Bilyonario News Channel (720p) [Geo-blocked]
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="MindanowNetworkTV.ph" tvg-name="Mindanow Network TV" tvg-logo="https://i.imgur.com/xBlYirh.jpeg" tvg-country="PH" tvg-language="eng;tgl;ceb" group-title="General",Mindanow Network TV (1080p)
+https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
 #EXTINF:-1 tvg-id="SouthPark.de" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" tvg-country="DE" tvg-language="spa" group-title="Animation",Comedy Central South Park (Germany)
 https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
 #EXTINF:-1 tvg-id="DepEdTV.ph" tvg-name="DepEd TV" tvg-logo="https://i.imgur.com/3BiY6mI.png" tvg-country="PH" tvg-language="tgl" group-title="Education",DepEd TV
 http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpqUIe1xo9fgdQj%2FdedKSTyytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001832&contentid=ch00000000000000001832&videoid=ch00000090990000001340&recommendtype=0&userid=1586131651828&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1RR87QJ6AY2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="SMNI.ph" tvg-name="SMNI" tvg-logo="https://i.imgur.com/9QhVnqY.jpg" tvg-country="PH" tvg-language="tgl" group-title="General",SMNI (720p)
 https://stream.kdlc.click/hls/0/stream.m3u8
+#EXTINF:-1 tvg-name="TV5 Kapatid" group-title="General",TV5 Kapatid
+http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="ComedyCentralSouthPark.us" tvg-name="Comedy Central South Park" tvg-logo="https://i.imgur.com/7GKO6Fp.png" tvg-country="US" tvg-language="por" group-title="Animation",Comedy Central South Park (United States)
 https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
-#EXTINF:-1 tvg-id="ADNTVPlus.fr" tvg-name="ADN TV+" tvg-logo="https://i.imgur.com/HQZQyWt.png" tvg-country="FR" tvg-language="fra" group-title="Animation",ADN TV+ (720p)
-https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-name="Aniplus Asia" tvg-logo="https://i.imgur.com/Im3MePy.png" tvg-country="SG" tvg-language="eng" group-title="Animation",Aniplus Asia (720p)
-https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-name="GMA" group-title="All Favorite",GMA
+http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="ComedyCentralSouthPark.us" tvg-name="Comedy Central South Park" tvg-logo="https://i.imgur.com/7GKO6Fp.png" tvg-country="US" tvg-language="spa" group-title="Animation",Comedy Central South Park (United States) LatAm
 https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-country="AR" tvg-language="spa;por" group-title="Animation",Disney Channel Latin America (1080p)
-http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 tvg-id="Crunchyroll.us" tvg-name="Crunchyroll" tvg-logo="https://i.imgur.com/2FlIQUO.png" tvg-country="US" tvg-language="eng;jap" group-title="Animation",Crunchyroll (720p)
 https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 #EXTINF:-1 tvg-id="DetectiveConan.us" tvg-name="Detective Conan" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png?w=512" tvg-country="US" tvg-language="spa" group-title="Animation",Detective Conan
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 #EXTINF:-1 tvg-id="DetectiveConan.us" tvg-name="Detective Conan" tvg-logo="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png?w=512" tvg-country="US" tvg-language="fra" group-title="Animation",Detective Conan France (720p)
 https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-country="AR" tvg-language="spa;por" group-title="Animation",Disney Channel Latin America (1080p)
+http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-country="AR" tvg-language="spa;por" group-title="Animation",Disney Channel Latin America Mexico (720p)
 http://45.166.93.156:9999/play/a0f3/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-country="AR" tvg-language="spa" group-title="Animation",Disney Channel Latin America North (576p)
@@ -5665,6 +5657,8 @@ http://178.134.1.158:8081/t24/index.m3u8
 https://live.we2live.in/taazatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TabarestanTV.ir" tvg-name="Tabarestan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IRIB_Mazandaran_Last_Orange_Logo.png/960px-IRIB_Mazandaran_Last_Orange_Logo.png" tvg-country="IR" tvg-language="fas" group-title="General",Tabarestan TV
 https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TagalizedMovieChannel.ph" tvg-name="Tagalized Movie Channel" tvg-logo="https://i.imgur.com/jr9Qm2M.png" tvg-country="PH" tvg-language="tgl" group-title="General",Tagalized Movie Channel
+http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-logo="https://i.imgur.com/LH0Gctv.png" tvg-country="DE" tvg-language="deu" group-title="General",tagesschau24 (720p)
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="TAGTV.ca" tvg-name="TAG TV" tvg-logo="https://i.imgur.com/4PA2adF.png" tvg-country="CA" tvg-language="hin" group-title="General",TAG TV (1080p) [Not 24/7]
@@ -11297,6 +11291,8 @@ https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60d
 https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="INCRadio.ph" tvg-name="INC Radio" tvg-logo="https://i.imgur.com/y2Nrr68.png" tvg-country="PH" tvg-language="tgl;eng" group-title="Religious",INC Radio (1080p)
 https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
+#EXTINF:-1 tvg-id="INCTV.ph" tvg-name="INC TV" tvg-logo="https://i.imgur.com/iC11uWK.png" tvg-country="PH" tvg-language="tgl" group-title="Religious",INC TV (1080p)
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
 #EXTINF:-1 tvg-id="IqraaAfricaEurope.sa" tvg-name="Iqraa Africa & Europe" tvg-logo="https://i.imgur.com/nUlZvSe.png" tvg-country="SA" tvg-language="fra;eng;ara" group-title="Religious",Iqraa Africa & Europe (1080p)
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraaArabic.sa" tvg-name="Iqraa Arabic" tvg-logo="https://i.imgur.com/HPVsIa4.png" tvg-country="SA" tvg-language="ara" group-title="Religious",Iqraa Arabic (1080p) [Not 24/7]
@@ -12846,6 +12842,8 @@ https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="KNOVCD411.us" tvg-name="KNOV-CD 41.1" tvg-logo="https://i.imgur.com/D7Lzqyl.png" tvg-country="US" tvg-language="eng" group-title="Travel",KNOV-CD 41.1 (720p)
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="LivingAsiaChannel.ph" tvg-name="Living Asia Channel" tvg-logo="https://i.imgur.com/q3UToRM.png" tvg-country="PH" tvg-language="eng;tgl" group-title="Travel",Living Asia Channel (1080p)
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
 #EXTINF:-1 tvg-id="MaldivesTV.mv" tvg-name="Maldives TV" tvg-logo="https://i.imgur.com/Zl2FmFC.png" tvg-country="MV" tvg-language="eng" group-title="Travel",Maldives TV (720p)
 https://lana.psm.mv/live/mtv.m3u8
 #EXTINF:-1 tvg-id="Moyastikhiya.ru" tvg-name="Moya stikhiya" tvg-logo="https://i.imgur.com/Sl8c9eB.png" tvg-country="RU" tvg-language="rus" group-title="Travel",Moya stikhiya HD (1080p)
@@ -12954,3 +12952,5 @@ https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
 https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="DZRHTV Livestream" tvg-logo="https://i.ytimg.com/vi/VzS75VuvLxs/hqdefault.jpg" group-title="YouTube",DZRHTV Livestream
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1790579703/ei/l7-5aviVCO-I1d8P9JWZsA8/ip/124.6.164.234/id/VzS75VuvLxs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AWzQHwoGkwkOtAQjFnJVV1fEFSt0zkoI6OT4Qv56pcTOIBVz_RnOVAILtKRewrzTMwAm07Rj8m8byjvY/spc/I-rgIaeEpO6vMyd2x7-hdH-hcOwN2oWV1JuHkTlz_WRrQzuf01smpZS58Q/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52178456/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRgIhAL_5VKtwNhwhHOeRC2kYBsr5cNBGZpj7G8v10O93LOPHAiEAuYXyEORxcjHK9QILEtO7_QNE8meOs4VhNazV58hyM3U%3D/file/index.m3u8
+#EXTINF:-1 tvg-name="Kapamilya Online Live" tvg-logo="https://i.ytimg.com/vi/Z56IiCjWH6Y/hqdefault.jpg" group-title="YouTube",Kapamilya Online Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1790579708/ei/nL-5at3AHb6v2roPm5mVuQo/ip/124.6.164.234/id/Z56IiCjWH6Y.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51929568/txs/51929566%2C51929567%2C51929568/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/gcr/ph/bui/AWzQHwpcCaiMkTGJxceA5KZn8XTz2OaFrh2vDUMy_NMPK0jOaslTFnDG8PjeeLfHObuxGuug3t2xJ4-s/spc/I-rgIc4PJYNOQJnLDgb2yORqIFrpKTTJc54qDIfZbR0vb33fZxphZp2OC6lqnNE/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52112904%2C52178456%2C52227522/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRgIhAI-PK-McgAGsw2pCVY74C6hThcbiXnpE3JMzo5LI6XajAiEAkbs4wJAt8jBlpvau-y4VRQe6advLuQunsMgbA8RE0rs%3D/file/index.m3u8
