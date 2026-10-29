@@ -10,11 +10,11 @@ http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-name="TV5 Kapatid" tvg-logo="https://i.imgur.com/g3Q1qLK.png" tvg-country="PH" tvg-language="eng;fil" group-title="General",TV5 Kapatid
 http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-name="Kapamilya Online Live" tvg-logo="https://i.ytimg.com/vi/31st1dHiVyQ/hqdefault.jpg" group-title="YouTube",Kapamilya Online Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1793314812/ei/nHvjaufCMdXN2roP9bnDqA8/ip/124.6.164.234/id/31st1dHiVyQ.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AZFAFb9jswl8KoiwPYRJzfxizs1dYGgAyB2EOsyMX2bZGagcRRDZfijGk5es6nycL_eBTSYmNp1ShSlJ/spc/mpRQ__tHuRm5raHczLLaMJjZsMDG2magsYbu54J8nu6kFIJgQcqFwJDKCcJC/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52184236%2C52271469/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgdXme28Lvlh6BScmurmTCTEzjCguLofRQt3n9UVWUwtwCIEufoI7jjBg9d8apBwz70UlLSe6Un60I0xFne4oluuz-/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1793318412/ei/rInjauD-Bp-UvcAPucKO0A8/ip/124.6.164.234/id/31st1dHiVyQ.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AZFAFb9eSNjKE7w6HjGB0INIvk1QyF8MeEBbkSzXmIIQp643D6EPY2JUjSLh3ocC3-_rb4W29hM6P8Q5/spc/mpRQ__GXodWz2Fu32q_MXa_JC6H7Hrzy-3DU_cM1H4R-dQupv-zm5vb04hgy/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565115%2C52184237%2C52271469/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRgIhAM1R1XJz7dBK3y3yYyqeCPiR9IEu2unbngbE_1W3E0PrAiEA-ZoUnR9Ikxd8Tjcjh050hIt1oOzM9OuQg1klBwdVVBU%3D/file/index.m3u8
 #EXTINF:-1 tvg-name="GMA" tvg-logo="https://i.imgur.com/cGvKkQy.png" tvg-country="PH" tvg-language="eng;fil" group-title="All Favorite",GMA
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-name="DZRHTV Livestream" tvg-logo="https://i.ytimg.com/vi/VzS75VuvLxs/hqdefault.jpg" group-title="YouTube",DZRHTV Livestream
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1793314807/ei/l3vjaqWSCPOLpt8Pjqa0iA8/ip/124.6.164.234/id/VzS75VuvLxs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AZFAFb92rib6VaiM7Udp0-n0pgcpak70yPYuAMjxqsUpJUX8ww0Y5HFqR4iaYRf_NKdVSxKr969KgU3Y/spc/mpRQ_5yr90PQX1ne3Zu_LtG02DQF-LKAyJSCYbQM7LlXDPpZrjo7J5Nbjd6S/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52184237%2C52271469/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgOKj9j6-nLOHvr0YLchsTAlNAFY2wv9ZjR1v1pqpDhCoCIDMocXkSl3H72LnOb-3ygFbG5ACGOWFbit-m6sOLEgBh/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1793318406/ei/ponjaoyhBqWJ1d8PutbZMQ/ip/124.6.164.234/id/VzS75VuvLxs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AZFAFb9iCU4Ea1qSXDfH4TH3_UctzIb0pXzTVPxksRCPdfyvptCRMO3VsINJuzrQ_sRYB-huyTsEcUqu/spc/mpRQ_9TV1yYQQK6dxASgu2iZqWICzrL-fkegcSDqSvmXKs-K_MbO-nDjw7mG/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52184237%2C52271469/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRgIhAKOH4EFmc-DUNKAe6W3MGMK3Z8B7wRdF2Uy5pLYpP422AiEAsyzb6zkvy3IzFdMKCOmMsIlKcKl2ol_MbwMBdqo5dnA%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="INCTV.ph" tvg-name="INC TV" tvg-logo="https://i.imgur.com/iC11uWK.png" tvg-country="PH" tvg-language="tgl" group-title="Religious",INC TV (1080p)
 https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
 #EXTINF:-1 tvg-id="LivingAsiaChannel.ph" tvg-name="Living Asia Channel" tvg-logo="https://i.imgur.com/q3UToRM.png" tvg-country="PH" tvg-language="eng;tgl" group-title="Travel",Living Asia Channel (1080p)
@@ -583,7 +583,7 @@ https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 #EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" tvg-logo="https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="Culture" lock="720x540",DD Bharati (720p)
 https://cdn.pishow.tv/ott/live/10/master.m3u8
 #EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="DD Punjabi" tvg-logo="https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="pan" group-title="Culture" lock="720x540",DD Punjabi (504p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
+https://fta.ektv.in/live/177/master.m3u8
 #EXTINF:-1,like tvg-id="DikhTV.hu" tvg-name="Dikh TV" tvg-logo="https://i.imgur.com/aAcORTL.png" tvg-country="HU" tvg-language="hun" group-title="Culture",Dikh TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/dikh/index.m3u8
@@ -1376,7 +1376,7 @@ https://jmp2.uk/plu-651f239d9c7aeb0008286823.m3u8
 #EXTINF:-1 tvg-id="DCCMakingtheTeam.us" tvg-name="DCC: Making the Team" tvg-logo="https://images.pluto.tv/channels/5d40855b3fb0855028c99b6f/colorLogoPNG.png" tvg-country="US" tvg-language="eng" group-title="Entertainment",DCC: Making the Team
 https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8
 #EXTINF:-1 tvg-id="DDMalayalam.in" tvg-name="DD Malayalam" tvg-logo="https://i.postimg.cc/BZjmjJJs/DD-Malayalam.png" tvg-country="IN" tvg-language="mal" group-title="Entertainment",DD Malayalam (504p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
+https://fta.ektv.in/live/680/master.m3u8
 #EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" tvg-logo="https://dtil.tmsimg.com/assets/s158252_ld_h9_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="Entertainment" lock="720x540",DD National (576p)
 https://cdn.pishow.tv/ott/live/11/master.m3u8
 #EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" tvg-logo="https://dtil.tmsimg.com/assets/s158252_ld_h9_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="Entertainment" lock="720x540",DD National HD (1080p)
@@ -1616,7 +1616,7 @@ https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" tvg-logo="https://objectstorage.ap-mumbai-1.oraclecloud.com/p/7Eg7LPw1gBcncVDrfwf__7yyrg13awaU6DmMk4gutavGYZgoAuAziv8e0aSEdU4G/n/bmaqqlwez184/b/GTPL_CHANNEL_LOGO/o/gtpl/MAHAA+MAX+LOGO.png" tvg-country="IN" tvg-language="tel" group-title="Entertainment",Mahaa Max (1080p)
 https://mumbai-edge.smartplaytv.in/MahaMax/index.m3u8
 #EXTINF:-1 tvg-id="MahaPunjabi.in" tvg-name="Maha Punjabi" tvg-logo="https://i.imgur.com/AWUcSb8.png" tvg-country="IN" tvg-language="pan" group-title="Entertainment",Maha Punjabi
-https://cdn.pishow.tv/ott/live/1521/master.m3u8
+https://fta.ektv.in/live/640/master.m3u8
 #EXTINF:-1 tvg-id="MakonTV.uz" tvg-name="Makon TV" tvg-logo="https://i.imgur.com/vCc0ED1.png" tvg-country="UZ" tvg-language="rus;uzb" group-title="Entertainment",Makon TV (576i)
 https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" tvg-name="MakroDigital Television" tvg-logo="https://makrodigitaltelevision.com/logo.jpg" tvg-country="EC" tvg-language="spa" group-title="Entertainment",MakroDigital Television (1080p)
@@ -3090,11 +3090,11 @@ https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="DCHTV.cl" tvg-name="DCH TV" tvg-logo="https://i.imgur.com/65Xk6oI.png" tvg-country="CL" tvg-language="spa" group-title="General",DCH TV (1080p)
 https://v2.tustreaming.cl/dchtv/index.m3u8
 #EXTINF:-1 tvg-id="DDArunPrabha.in" tvg-name="DD Arun Prabha" tvg-logo="https://dtil.tmsimg.com/assets/s142776_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="General" lock="720x540",DD Arun Prabha (360p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
+https://fta.ektv.in/live/203/master.m3u8
 #EXTINF:-1 tvg-id="DDAssam.in" tvg-name="DD Assam" tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="asm;eng" group-title="General" lock="720x540",DD Assam (504p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
+https://fta.ektv.in/live/672/master.m3u8
 #EXTINF:-1 tvg-id="DDBangla.in" tvg-name="DD Bangla" tvg-logo="https://dtil.tmsimg.com/assets/s142778_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="ben" group-title="General" lock="720x540",DD Bangla (504p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
+https://fta.ektv.in/live/197/master.m3u8
 #EXTINF:-1 tvg-id="DDBihar.in" tvg-name="DD Bihar" tvg-logo="https://dtil.tmsimg.com/assets/s142780_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="General" lock="720x540",DD Bihar (720p)
 https://cdn.pishow.tv/ott/live/35/master.m3u8
 #EXTINF:-1 tvg-id="DDChandana.in" tvg-name="DD Chandana" tvg-logo="https://i.imgur.com/MaDlMtb.png" tvg-country="IN" tvg-language="kan" group-title="General",DD Chandana (504p)
@@ -3102,39 +3102,39 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/in
 #EXTINF:-1 tvg-id="DDChhattisgarh.in" tvg-name="DD Chhattisgarh" tvg-logo="https://i.imgur.com/zBg6Iuv.png" tvg-country="IN" tvg-language="hin" group-title="General",DD Chhattisgarh (720p)
 https://cdn.pishow.tv/ott/live/15/master.m3u8
 #EXTINF:-1 tvg-id="DDGirnar.in" tvg-name="DD Girnar" tvg-logo="https://dtil.tmsimg.com/assets/s142782_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="guj" group-title="General" lock="720x540",DD Girnar (504p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8
+https://fta.ektv.in/live/368/master.m3u8
 #EXTINF:-1 tvg-id="DDGoa.in" tvg-name="DD Goa" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Goa-Logo_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="kok;mar" group-title="General",DD Goa (504p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
+https://fta.ektv.in/live/367/master.m3u8
 #EXTINF:-1 tvg-id="DDHaryana.in" tvg-name="DD Haryana" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Haryana-Logo_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="hin" group-title="General",DD Haryana (504p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
+https://fta.ektv.in/live/580/master.m3u8
 #EXTINF:-1 tvg-id="DDHimachalPradesh.in" tvg-name="DD Himachal Pradesh" tvg-logo="https://dtil.tmsimg.com/assets/s142785_ld_h9_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="General" lock="720x540",DD Himachal Pradesh (504p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
+https://fta.ektv.in/live/575/master.m3u8
 #EXTINF:-1 tvg-id="DDIndia.in" tvg-name="DD India" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="eng" group-title="General" lock="720x540",DD India (1080p)
 https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8
 #EXTINF:-1 tvg-id="DDJharkhand.in" tvg-name="DD Jharkhand" tvg-logo="https://dtil.tmsimg.com/assets/s142787_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="General" lock="720x540",DD Jharkhand (504p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8
+https://fta.ektv.in/live/573/master.m3u8
 #EXTINF:-1 tvg-id="DDKashir.in" tvg-name="DD Kashir" tvg-logo="https://dtil.tmsimg.com/assets/s142788_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="General" lock="720x540",DD Kashir (504p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8
+https://fta.ektv.in/live/248/master.m3u8
 #EXTINF:-1 tvg-id="DDMadhyaPradesh.in" tvg-name="DD Madhya Pradesh" tvg-logo="https://dtil.tmsimg.com/assets/s142790_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="General" lock="720x540",DD Madhya Pradesh (720p)
 https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8
 #EXTINF:-1 tvg-id="DDManipur.in" tvg-name="DD Manipur" tvg-logo="https://i.imgur.com/CvmIwPF.png" tvg-country="IN" tvg-language="hin" group-title="General",DD Manipur (504p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
+https://fta.ektv.in/live/671/master.m3u8
 #EXTINF:-1 tvg-id="DDMeghalaya.in" tvg-name="DD Meghalaya" tvg-logo="https://i.imgur.com/ik83EbG.png" tvg-country="IN" tvg-language="eng" group-title="General",DD Meghalaya (504p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8
 #EXTINF:-1 tvg-id="DDNagaland.in" tvg-name="DD Nagaland" tvg-logo="https://i.imgur.com/HUL4aF6.png" tvg-country="IN" tvg-language="eng" group-title="General",DD Nagaland (504p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
+https://fta.ektv.in/live/670/master.m3u8
 #EXTINF:-1 tvg-id="DDOdia.in" tvg-name="DD Odia" tvg-logo="https://i.imgur.com/Rw61ile.png" tvg-country="IN" tvg-language="ori" group-title="General",DD Odia (576p)
 https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8
 #EXTINF:-1 tvg-id="DDRajasthan.in" tvg-name="DD Rajasthan" tvg-logo="https://i.imgur.com/t8KCi4L.png" tvg-country="IN" tvg-language="hin" group-title="General",DD Rajasthan (720p)
 https://cdn.pishow.tv/ott/live/34/master.m3u8
 #EXTINF:-1 tvg-id="DDSahyadri.in" tvg-name="DD Sahyadri" tvg-logo="https://dtil.tmsimg.com/assets/s142803_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="mar" group-title="General" lock="720x540",DD Sahyadri (504p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
+https://fta.ektv.in/live/187/master.m3u8
 #EXTINF:-1 tvg-id="DDSaptagiri.in" tvg-name="DD Saptagiri" tvg-logo="https://dtil.tmsimg.com/assets/s142804_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tel" group-title="General" lock="720x540",DD Saptagiri (504p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
 #EXTINF:-1 tvg-id="DDTamil.in" tvg-name="DD Tamil" tvg-logo="https://dtil.tmsimg.com/assets/s142797_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tam" group-title="General" lock="720x540",DD Tamil HD (1080p)
 https://cdn.pishow.tv/ott/live/1737/master.m3u8
 #EXTINF:-1 tvg-id="DDTripura.in" tvg-name="DD Tripura" tvg-logo="https://i.imgur.com/ctlcdOw.png" tvg-country="IN" tvg-language="ben" group-title="General",DD Tripura (504p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index.m3u8
+https://fta.ektv.in/live/661/master.m3u8
 #EXTINF:-1 tvg-id="DDUrdu.in" tvg-name="DD Urdu" tvg-logo="https://dtil.tmsimg.com/assets/s142808_ld_h9_aa.png?lock=720x540" tvg-country="IN" tvg-language="urd;hin;eng" group-title="General" lock="720x540",DD Urdu (720p)
 https://cdn.pishow.tv/ott/live/8/master.m3u8
 #EXTINF:-1 tvg-id="DDUttarakhand.in" tvg-name="DD Uttarakhand" tvg-logo="https://dtil.tmsimg.com/assets/s142809_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="General" lock="720x540",DD Uttarakhand (720p)
@@ -3142,7 +3142,7 @@ https://cdn.pishow.tv/ott/live/17/master.m3u8
 #EXTINF:-1 tvg-id="DDUttarPradesh.in" tvg-name="DD Uttar Pradesh" tvg-logo="https://dtil.tmsimg.com/assets/s142807_ld_h9_ab.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="General" lock="720x540",DD Uttar Pradesh (720p)
 https://cdn.pishow.tv/ott/live/36/master.m3u8
 #EXTINF:-1 tvg-id="DDYadagiri.in" tvg-name="DD Yadagiri" tvg-logo="https://dtil.tmsimg.com/assets/s142810_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tel" group-title="General" lock="720x540",DD Yadagiri (576p)
-https://cdn.pishow.tv/ott/live/21/master.m3u8
+https://fta.ektv.in/live/678/master.m3u8
 #EXTINF:-1 tvg-id="DecimaTV.cl" tvg-name="Decima TV" tvg-logo="https://i.imgur.com/eu8hDDc.png" tvg-country="CL" tvg-language="spa" group-title="General",Decima TV (720p)
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/YV27Chs.png" tvg-country="IT" tvg-language="ita" group-title="General",Deejay TV (1080p)
@@ -7630,7 +7630,7 @@ https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MadeInHollywood.us" tvg-name="Made In Hollywood" tvg-logo="https://i.imgur.com/p16HNIM.png" tvg-country="US" tvg-language="eng" group-title="Movies",Made In Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MahaMovie.in" tvg-name="Maha Movie" tvg-logo="https://i.imgur.com/hpShFDL.png" tvg-country="IN" tvg-language="hin" group-title="Movies",Maha Movie (576p)
-https://cdn.pishow.tv/ott/live/10007/master.m3u8
+https://fta.ektv.in/live/48/48_0.m3u8
 #EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-name="Manoranjan Grand" tvg-logo="https://dtil.tmsimg.com/assets/s143302_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="Movies" lock="720x540",Manoranjan Grand (720p)
 https://cdn.pishow.tv/ott/live/1011/master.m3u8
 #EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-name="Manoranjan Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143303_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="pan" group-title="Movies" lock="720x540",Manoranjan Movies (576p)
@@ -7987,7 +7987,7 @@ https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/380/index.m3u8
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="Movies" lock="720x540",Zee Action (576p)
-http://107.167.16.138/zeeaction/index.m3u8?token=test
+https://fta.ektv.in/live/270/master.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="Movies" lock="720x540",Zee Cinema (576p)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="Zee Talkies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S299.png?lock=720x540" tvg-country="IN" tvg-language="mar" group-title="Movies" lock="720x540",Zee Talkies (576p)
@@ -8950,7 +8950,7 @@ https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="4SiDESTV.in" tvg-name="4 SiDES TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png" tvg-country="IN" tvg-language="tel" group-title="News",4 SiDES TV (1080p)
 https://stream.ottlive.co.in/4sidestv/index.m3u8
 #EXTINF:-1 tvg-id="4TVNews.in" tvg-name="4TV News" tvg-logo="https://i.imgur.com/DSAaC2b.png" tvg-country="IN" tvg-language="urd" group-title="News",4TV News (576p)
-https://cdn.pishow.tv/ott/live/1007/master.m3u8
+https://fta.ektv.in/live/647/master.m3u8
 #EXTINF:-1 tvg-id="6TVTelugu.in" tvg-name="6 TV Telugu" tvg-logo="https://i.imgur.com/l3EcRnZ.png" tvg-country="IN" tvg-language="tel" group-title="News",6 TV Telugu (576p)
 https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="6PR.au" tvg-name="6PR" tvg-logo="https://i.imgur.com/Q9iCxg1.png" tvg-country="AU" tvg-language="eng" group-title="News",6PR (1080p)
@@ -9150,7 +9150,7 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/pl
 #EXTINF:-1 tvg-id="ArmyTV.ua" tvg-name="Army TV" tvg-logo="https://i.imgur.com/pGByjbh.png" tvg-country="UA" tvg-language="ukr" group-title="News",Army TV (1080p)
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 tvg-id="AsianetSuvarnaNews.in" tvg-name="Asianet Suvarna News" tvg-logo="https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="kan" group-title="News" lock="720x540",Asianet Suvarna News (1080p) [Not 24/7]
-https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
+https://fta.ektv.in/live/692/master.m3u8
 #EXTINF:-1 tvg-id="AsianNews.in" tvg-name="Asian News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png" tvg-country="IN" tvg-language="hin" group-title="News",Asian News (1080p)
 https://stream.ottlive.co.in/asiannews/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in" tvg-name="Assam Talks" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="asm" group-title="News" lock="720x540",Assam Talks (576p)
@@ -9351,11 +9351,11 @@ https://hls.dabangasudan.org/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DailyPostTV.in" tvg-name="Daily Post TV" tvg-logo="https://papaji.freetvindia.com/media/Daily_post.png" tvg-country="IN" tvg-language="pan" group-title="News",Daily Post TV (1080p)
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/103b8dd3-a888-4d1d-89a5-8a4bc25e48c1/index.m3u8
 #EXTINF:-1 tvg-id="DDMizoram.in" tvg-name="DD Mizoram" tvg-logo="https://i.imgur.com/I5zT1DG.png" tvg-country="IN" tvg-language="lus;eng" group-title="News",DD Mizoram (504p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+https://fta.ektv.in/live/381/master.m3u8
 #EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD News" tvg-logo="https://dtil.tmsimg.com/assets/s158254_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="News" lock="720x540",DD News (1080p)
 https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8
 #EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD News" tvg-logo="https://dtil.tmsimg.com/assets/s158254_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="News" lock="720x540",DD News HD (1080p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8
 #EXTINF:-1 tvg-id="DHA.tr" tvg-name="DHA" tvg-logo="https://i.imgur.com/VZhag2x.png" tvg-country="TR" tvg-language="tur;eng;deu;zho" group-title="News",DHA (720p) [Not 24/7]
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 tvg-id="DidgahTV.us" tvg-name="Didgah TV" tvg-logo="https://i.imgur.com/3SeAyBS.png" tvg-country="US" tvg-language="fas" group-title="News",Didgah TV (576p)
@@ -9552,7 +9552,7 @@ https://cdn.pishow.tv/ott/live/411/master.m3u8
 #EXTINF:-1 tvg-id="INews.iq" tvg-name="I News" tvg-logo="https://i.imgur.com/9lOuzHQ.png" tvg-country="IQ" tvg-language="ara" group-title="News",I News (1080p)
 https://live.i-news.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="INH24x7.in" tvg-name="INH 24x7" tvg-logo="https://i.imgur.com/Es3QiVx.png" tvg-country="IN" tvg-language="hin;hne" group-title="News",INH 24x7 (396p)
-https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
+https://fta.ektv.in/live/99/99_0.m3u8
 #EXTINF:-1 tvg-id="IranInternational.uk" tvg-name="Iran International" tvg-logo="https://i.imgur.com/55RpaF3.png" tvg-country="UK" tvg-language="fas" group-title="News",Iran International (1080p)
 https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-name="IRINN" tvg-logo="https://i.imgur.com/8tzsC9h.png" tvg-country="IR" tvg-language="fas" group-title="News",IRINN (576p)
@@ -11025,7 +11025,7 @@ https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?
 #EXTINF:-1 tvg-id="NewVisionTV.ng" tvg-name="New Vision TV" tvg-country="NG" tvg-language="eng" group-title="Religious",New Vision TV (360p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NireekshanaTV.in" tvg-name="Nireekshana TV" tvg-logo="https://i.imgur.com/nGJv6QR.png" tvg-country="IN" tvg-language="tel" group-title="Religious",Nireekshana TV (576p)
-https://cdn.pishow.tv/ott/live/965/master.m3u8
+https://fta.ektv.in/live/706/master.m3u8
 #EXTINF:-1 tvg-id="NoorTV.uk" tvg-name="Noor TV" tvg-logo="https://i.imgur.com/DlKgIuQ.png" tvg-country="UK" tvg-language="urd;eng" group-title="Religious",Noor TV (United Kingdom) (720p)
 https://sscsott.com/srt/noortvuk/index.m3u8
 #EXTINF:-1 tvg-id="NourAlKoddass.lb" tvg-name="Nour Al Koddass" tvg-logo="https://i.imgur.com/dF4Mvts.png" tvg-country="LB" tvg-language="ara" group-title="Religious",Nour Al Koddass (406p) [Not 24/7]
@@ -12384,6 +12384,6 @@ https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="MPL Philippines" tvg-logo="https://i.ytimg.com/vi/3AsJLvEwIzU/hqdefault.jpg" group-title="YouTube",MPL Philippines
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1793304020/ei/dFHjatnkJ9i5z7sP9dvCqQI/ip/124.6.164.234/id/3AsJLvEwIzU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AZFAFb_Il1Ckt74EiGogsIdL9yyq9r9GIEgHE96b6cakCkclVz1b_bWK3d4WP-sTRGbCm0FZDaklNkx2/spc/mpRQ_3rpTn1EFNg7UOdn4LVWBgIdd46Mny9OXN1UC8M55hYDoJyYrsfZeBGk/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52184237%2C52271469/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIgQGGRPZYw9orzK6wu0QuucROvhODHK_y1iODnfCAH7PECIQDmR7UFHXe228hDp94NxET4rsFE5ta-FlUp1Zsb84Jf3A%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-name="One Sport" tvg-logo="https://i.ytimg.com/vi/sMVajqv0cw4/hqdefault.jpg" group-title="YouTube",One Sport
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1793314820/ei/pHvjauyCM7Otpt8PpfuF2QI/ip/124.6.164.234/id/sMVajqv0cw4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/gcr/ph/bui/AZFAFb_FsFSKkH7f1c_Tlm3Lz-bI_-f-G_siNx0MoRgxvlznTUXSOLng61PR2EsRWrm5ds8zKmPN-S6J/spc/mpRQ_9YSnQQwu3HbZCRt9rCwkovm2Jf5xW2oEmtj7GfzI0_jjJZJq4ZkVdNU/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52184236%2C52271470/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgPdVNsh_GOdNoe5kbWwvEOgLckNvup5lbevB0_dLYy_ACIASZqpso2zPaqfW4E9RqRNLKk59JcnZN9l9-j_dxp4wI/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1793318420/ei/tInjav7-DfuFpt8Pm92s0QQ/ip/124.6.164.234/id/sMVajqv0cw4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/gcr/ph/bui/AZFAFb_PoqstXma5vawULWqlnlJ2Bc8KzlGjy8VTcLt_URkq8oPFFaEFn_yHhwZBmOFlICzWaMJsyjoo/spc/mpRQ_49QBUPlWBu6qZcV1jNxGrL0yDMLrJYO3v5YsEVd9shfZOVK4cmkyz7F/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52184237%2C52271469/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIhAPlUgv0lPW0tV_jeZKLYiseF2lHpbUoE0mlJFWroy88wAiBtVBCRPZ5sCC1gu5evQ22quzdJw6y1eFkoT5x9UCz6dQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-name="KiliYT" tvg-logo="https://i.ytimg.com/vi/SLKi9yGckRw/hqdefault.jpg" group-title="YouTube",KiliYT
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1792954818/ei/Yv3dauvQKojkpt8PnqHByQ4/ip/124.6.164.234/id/SLKi9yGckRw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AWzQHwrtgO_2tLcGIzhECTvRJ8sarwD_A1ld0lxbbOtwo5G2GzDRcZ1U65E-CkvZp6RF6nUey3ROUh9w/spc/mpRQ_-oap0hz4m_uJl3FUig7FPSJXxgFBV1Ggi6StlQ6q7RsATLgInJiGnlm/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565115/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRgIhAOEW2jMjTiYhZwhjZvEIva4QsD3NvScbgqAU2ALSPVP3AiEAyJ1bjge2xHin3JpYE2WMwhXl6d3bQvnWaaJhy6zR4_E%3D/file/index.m3u8
