@@ -10,11 +10,11 @@ http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-name="TV5 Kapatid" tvg-logo="https://i.imgur.com/g3Q1qLK.png" tvg-country="PH" tvg-language="eng;fil" group-title="General",TV5 Kapatid
 http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-name="Kapamilya Online Live" tvg-logo="https://i.ytimg.com/vi/K9zGqHs5Fv8/hqdefault.jpg" group-title="YouTube",Kapamilya Online Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1794783612/ei/HOX5asbDC7qCpt8Pwdrx6AM/ip/124.6.164.234/id/K9zGqHs5Fv8.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/gcr/ph/bui/AZFAFb_asp_YMr_H9vIxyW1BihfYWSr7tNtMhPny3zR9HBkTO7GM0HlYe2A6T5IU5or2cKe9sOtqoxpS/spc/nfZ8Zi2Zo7S2aMubJRL41qfAAMslGyE4ky65F5XUCUZ8kAVa0sgp9qbut_xo/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRgIhAJYrersEVpyTCQHvVPGFFK1iSSXm-CijIG2PZ_kGZOCbAiEAz81fcI-axaNpmkc99Kxpe51K8cLOn3AWd48qMDziZVY%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1794787212/ei/LPP5ar2GEL2w2roP-_y9WQ/ip/124.6.164.234/id/K9zGqHs5Fv8.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/gcr/ph/bui/AZFAFb_rqlxpjDc10bPADF6x1pXIvgi2U8bcHk3eewkgwZCe1gTjb9qFp0VE77y_lij7SyMhl4J4wHCD/spc/nfZ8ZtBl-bMQZuLSS8slGTMa72K83NHY33yTruQma4MYSONq8CW0eY-rIot7/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgFNZyXfLCTOa_5z2LgbaoiYZCq5JDKgkxfANTQ-wFyyQCIGGNzexGsA4IwW5uuBL-sE71t2rttXJTGZVRxFAScu8W/file/index.m3u8
 #EXTINF:-1 tvg-name="GMA" tvg-logo="https://i.imgur.com/cGvKkQy.png" tvg-country="PH" tvg-language="eng;fil" group-title="All Favorite",GMA
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-name="DZRHTV Livestream" tvg-logo="https://i.ytimg.com/vi/VzS75VuvLxs/hqdefault.jpg" group-title="YouTube",DZRHTV Livestream
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1794783606/ei/FuX5asTWDp2OvcAPwcC56Q0/ip/124.6.164.234/id/VzS75VuvLxs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AZFAFb8Pl-uhH-Mb4k16GYsOd7tN0g2IZY0xLEEgZWgkn7dlgSydNzabtv5qxv9xbPNzYtJdHzwq4X34/spc/nfZ8ZgXvOqcwcD_rLXc2KoIpAnBcu7txuEt2_bxt2o3QhaK5T0DFlkDGSZKe/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565115/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIhAOjcf1wqOqR2MyRfVQQVVaeMhx1GtziIYE74vMiHgMFZAiA4VSa93ivredoqjasc8OkwGNw5EgHw3j6-CcooJiSXsQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1794787206/ei/JvP5asPiH9bG2roP4tmLwA8/ip/124.6.164.234/id/VzS75VuvLxs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AZFAFb9hLYPSzgn7YmmhPSRQ4k-OI3XLsRlVlKRAVQksgUs4m6-OnvzNszUYfyojVuZcHDYZz5pjp3gY/spc/nfZ8ZuS3qNWtLPJKdD_YB4BYaUnd4WPptaAyH-TRsnMbdqjtSkHOS90SFtZ8/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565115/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRgIhAJC-45QJdVFBkWpBn6_ZViZUDi7q0uONH2VZn0Fft4lUAiEA9r6-FYBiMYMZcCjATzAsJ1tvf6F98AQqEEwMBIR6KOs%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="INCTV.ph" tvg-name="INC TV" tvg-logo="https://i.imgur.com/iC11uWK.png" tvg-country="PH" tvg-language="tgl" group-title="Religious",INC TV (1080p)
 https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
 #EXTINF:-1 tvg-id="LivingAsiaChannel.ph" tvg-name="Living Asia Channel" tvg-logo="https://i.imgur.com/q3UToRM.png" tvg-country="PH" tvg-language="eng;tgl" group-title="Travel",Living Asia Channel (1080p)
@@ -96,7 +96,7 @@ https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.us" tvg-name="Nickelodeon Teen" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png" tvg-country="US" tvg-language="por" group-title="Kids",Nickelodeon Teen (United States) (720p)
 https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-name="Nickelodeon Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" tvg-country="FR" tvg-language="fra" group-title="Kids",Nickelodeon Junior (1080p)
-http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
 #EXTINF:-1,like tvg-id="Nickelodeon.cz" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="CZ" tvg-language="ces" group-title="Kids",Nickelodeon (Czech Republic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
@@ -1328,7 +1328,7 @@ https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelU.sg" tvg-name="Channel U" tvg-logo="https://i.ibb.co/23ktDgvx/IMG-2461.png" tvg-country="SG" tvg-language="zho;kor;tha;eng" group-title="Entertainment",Channel U (720p)
 https://cdn.qd.je/163189/chu
 #EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" tvg-logo="https://i.imgur.com/ZOcDGpB.png" tvg-country="RU" tvg-language="rus" group-title="Entertainment",Che! (576p)
-http://176.118.197.101/Che/index.m3u8
+http://flussonic.linkintel.ru/che/index.m3u8
 #EXTINF:-1 tvg-id="CheksizTV.uz" tvg-name="Cheksiz TV" tvg-logo="https://i.imgur.com/f7hHmmR.jpeg" tvg-country="UZ" tvg-language="uzb" group-title="Entertainment",Cheksiz TV
 https://fl.biztv.media/cheksiz_tv_480_unif7hujidth7f4du83jrhuid3k94j8hfj8d93eubych8eju93n4ubt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ChromaTV.br" tvg-name="Chroma TV" tvg-logo="https://i.imgur.com/SnaIMgj.png" tvg-country="BR" tvg-language="por" group-title="Entertainment",Chroma TV (480p)
@@ -3407,7 +3407,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiaw
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" tvg-logo="https://i.ibb.co/xtfQ8tG5/fox10news.png" tvg-country="US" tvg-language="eng" group-title="General",Fox (United States) WXXV-TV (720p)
 https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/France_3_Cote_d%27Azur_-_Logo_2018.svg" tvg-country="FR" tvg-language="fra" group-title="General",France 3 Cote d'Azur
-http://85.14.32.26:8800/udp/239.100.10.144:5000
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="FrankenFernsehen.de" tvg-name="Franken Fernsehen" tvg-logo="https://i.imgur.com/3pGGLLD.png" tvg-country="DE" tvg-language="deu" group-title="General",Franken Fernsehen (1080p) [Not 24/7]
 https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Frasier.se" tvg-name="Frasier" tvg-logo="https://images.pluto.tv/channels/6400c095498393000878a634/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="General",Frasier (Sweden)
@@ -6810,7 +6810,7 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EKids.bg" tvg-name="EKids" tvg-country="BG" tvg-language="bul" group-title="Kids",EKids (576p)
 http://78.108.244.134:8899/ekids
 #EXTINF:-1 tvg-id="ElChavoTV.mx" tvg-name="El Chavo TV" tvg-logo="https://gia.tv/streams/pptv/211465.png" tvg-country="MX" tvg-language="spa" group-title="Kids",El Chavo TV (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicKids.in" tvg-name="Epic Kids" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVSR.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="Kids" lock="720x540",Epic Kids Digital (1080p)
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" tvg-logo="https://i.imgur.com/zsTxPV9.png" tvg-country="IN" tvg-language="eng;hin;tel;tam;kan;mal;ben;mar;ori;guj;pan;asm" group-title="Kids",ETV Bal Bharat (576p)
@@ -9154,7 +9154,7 @@ https://asianet-prasarbharati.vgcdn.net/out/v1/bd05c931d9d94d288bbe455cc0f7e229/
 #EXTINF:-1 tvg-id="AsianNews.in" tvg-name="Asian News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png" tvg-country="IN" tvg-language="hin" group-title="News",Asian News (1080p)
 https://stream.ottlive.co.in/asiannews/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in" tvg-name="Assam Talks" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="asm" group-title="News" lock="720x540",Assam Talks (576p)
-http://tvsen7.aynascope.net/AssamTalks/index.m3u8
+https://cdn.pishow.tv/ott/live/258/master.m3u8
 #EXTINF:-1 tvg-id="Astrahan24.ru" tvg-name="Astrahan 24" tvg-logo="https://i.imgur.com/9WcnjQN.png" tvg-country="RU" tvg-language="rus" group-title="News",Astrahan 24 (720p)
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #EXTINF:-1 tvg-id="ASTV.tr" tvg-name="AS TV" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" tvg-country="TR" tvg-language="tur" group-title="News",AS TV (900p)
@@ -11937,11 +11937,11 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-country="IN" tvg-language="hin" group-title="Sports",DD Sports SD (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" tvg-logo="https://i.imgur.com/KWDUi3v.png" tvg-country="RO" tvg-language="ron" group-title="Sports",Digi Sport 2 (1080p)
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2522/index.m3u8
+http://sultanios.alwaysdata.net/vavo.php?ID=867728420
 #EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="Digi Sport 3" tvg-logo="https://i.imgur.com/T1ci5UK.png" tvg-country="RO" tvg-language="ron" group-title="Sports",Digi Sport 3 (576p)
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2524/index.m3u8
+http://sultanios.alwaysdata.net/vavo.php?ID=4279401658
 #EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4" tvg-logo="https://i.imgur.com/Knj9I6f.png" tvg-country="RO" tvg-language="ron" group-title="Sports",Digi Sport 4 (1080p)
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8
+http://sultanios.alwaysdata.net/vavo.php?ID=4124538275
 #EXTINF:-1 tvg-id="DongNaiTV2.vn" tvg-name="Dong Nai TV 2" tvg-logo="https://i.imgur.com/tNKPSkO.png" tvg-country="VN" tvg-language="vie" group-title="Sports",Dong Nai TV 2 (720p)
 https://freem3u.xyz/api/live/play.m3u8?vid=255
 #EXTINF:-1 tvg-id="DraftKingsNetwork.us" tvg-name="DraftKings Network" tvg-logo="https://i.imgur.com/SFYhgrt.png" tvg-country="US" tvg-language="eng" group-title="Sports",DraftKings Network (1080p)
