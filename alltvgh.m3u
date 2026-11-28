@@ -10,11 +10,11 @@ http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-name="TV5 Kapatid" tvg-logo="https://i.imgur.com/g3Q1qLK.png" tvg-country="PH" tvg-language="eng;fil" group-title="General",TV5 Kapatid
 http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-name="Kapamilya Online Live" tvg-logo="https://i.ytimg.com/vi/jb66prDYx2o/hqdefault.jpg" group-title="YouTube",Kapamilya Online Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1795906813/ei/nQgLa42KG4eV1d8PiIbN2Ag/ip/124.6.164.234/id/jb66prDYx2o.2~45812061/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AZFAFb9fBf3rPn5p3pPad9jvvpRIAgRCCYsCGP5dOAyi4GA8fyP46wG2ztwaES_K-3U8-4aDGHBiqOWV/spc/nfZ8ZmuKIZ0TgMcXQwsVhghNssOUINGvJuLsbuPV7iQXv3HcLpZ-vDknNuCc/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565115/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgIO-ctocHuunh-AUQmb0XH5TeXVwkTI0qPxb-mco3nNgCIAEowC1V5jF4aHgziPRAPtEbAzvwk63c4O9pbdrfTu4g/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1795910412/ei/rBYLa4TgFqGfkuEPw6GFqQY/ip/124.6.164.234/id/jb66prDYx2o.2~45812061/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AZFAFb9qK2HN4anCcN6YPYONDoI5H2NJhwT1yb-FJGcRCaDHvcpSviH8v7OTbZeY7zcuG-hxwolT8cdL/spc/nfZ8ZvKej_1ApmjnLM9hqWLR1SvEAY9Ad2Ga2EL4aPuvzBzk_e0mCtrcAXR2/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565115/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgfTH4BtzgfAZTYyUrAujxaYOfmtXr3Krw3svL1mFiRlYCIHXOWti4vaiYZ4JvdKJlSA-r63v_93HnopNA2kC9gmts/file/index.m3u8
 #EXTINF:-1 tvg-name="GMA" tvg-logo="https://i.imgur.com/cGvKkQy.png" tvg-country="PH" tvg-language="eng;fil" group-title="All Favorite",GMA
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-name="DZRHTV Livestream" tvg-logo="https://i.ytimg.com/vi/VzS75VuvLxs/hqdefault.jpg" group-title="YouTube",DZRHTV Livestream
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1795906806/ei/lggLa-raOYjM2roPh_KP2AM/ip/124.6.164.234/id/VzS75VuvLxs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AZFAFb-iqeDN943UppaVeXuUVLKpzsdOZex7ZXrPm6tDVNVrWN2APdn0Dgbkj_lvZcNMqJ4WU6j9I0GG/spc/nfZ8ZrUhsthBujerkAGY7JCrSePfhlPiIZ4HFv74mtbVMazTNMF9Pss9V-h8/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565115/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIgNOevwskrkDDcjJsb8CXzY8NG8OPwYtFA28ZnVgsZIZICIQDaqoO2Tjl2e0oAho-KtUyxKU63AhEB4-n77PsOeM3NFw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1795910406/ei/phYLa7mWJYr1pt8Pr6KCoAQ/ip/124.6.164.234/id/VzS75VuvLxs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AZFAFb9zCmq1FwNy7-glEhbigO5iFDjxZcF7eexrgbchzhILYn8vbtlsej2IA6OeCfmvxU5UBdh7MHr2/spc/nfZ8ZtXj_PlorrHPHBUmQMWLTVxUNZey9SgRlSit__U7Nlm4-UX1-hYdzq_d/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIhAK-z9DSSBdsaDMiutSNfx3bmlDIcXN9t79LbUFcJktcKAiBMu_gPDYaKW8CRka75YkXD1nWFfW2QDDlpefuuRBGXHw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="INCTV.ph" tvg-name="INC TV" tvg-logo="https://i.imgur.com/iC11uWK.png" tvg-country="PH" tvg-language="tgl" group-title="Religious",INC TV (1080p)
 https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
 #EXTINF:-1 tvg-id="LivingAsiaChannel.ph" tvg-name="Living Asia Channel" tvg-logo="https://i.imgur.com/q3UToRM.png" tvg-country="PH" tvg-language="eng;tgl" group-title="Travel",Living Asia Channel (1080p)
@@ -1162,7 +1162,7 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 #EXTINF:-1 tvg-id="XHUNESTDT.mx" tvg-name="XHUNES-TDT" tvg-logo="https://i.imgur.com/LbZkdca.png" tvg-country="MX" tvg-language="spa" group-title="Education",XHUNES-TDT (720p)
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1 tvg-id="black.ru" tvg-name=".black" tvg-logo="https://i.imgur.com/Q4A6ci4.png" tvg-country="RU" tvg-language="rus" group-title="Entertainment",.black (576p)
-http://s1.merlive.am/black/index.m3u8
+http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1 tvg-id="red.ru" tvg-name=".red" tvg-logo="https://i.imgur.com/GET9Qut.png" tvg-country="RU" tvg-language="rus" group-title="Entertainment",.red (576p)
 http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 tvg-id="red.ru" tvg-name=".red" tvg-logo="https://i.imgur.com/GET9Qut.png" tvg-country="RU" tvg-language="rus" group-title="Entertainment",.red HD (1080p)
@@ -3845,7 +3845,7 @@ https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LanthungTV.th" tvg-name="Lanthung TV" tvg-country="TH" tvg-language="tha" group-title="General",Lanthung TV
 https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8
 #EXTINF:-1 tvg-id="LaNuovaTV.it" tvg-name="La Nuova TV" tvg-logo="https://i.imgur.com/OHMv86A.png" tvg-country="IT" tvg-language="ita" group-title="General",La Nuova TV
-https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
+https://play.video.serverroom.net/lanuovatvbas/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoNetTV.la" tvg-name="Lao Net TV" tvg-logo="https://i.imgur.com/ohbRT05.png" tvg-country="LA" tvg-language="lao" group-title="General",Lao Net TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="LaPopularTV.cl" tvg-name="La Popular TV" tvg-logo="https://i.imgur.com/AWdgMCC.png" tvg-country="CL" tvg-language="spa" group-title="General",La Popular TV
@@ -7620,7 +7620,7 @@ https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" tvg-logo="https://i.imgur.com/sMpamNO.png" tvg-country="RU" tvg-language="rus" group-title="Movies",Kino TV HD (1080p)
 http://176.118.197.101/KinoTvHD/playlist.m3u8
 #EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-name="Kinouzhas" tvg-logo="https://i.imgur.com/mAcAAQF.png" tvg-country="RU" tvg-language="rus" group-title="Movies",Kinouzhas (576p)
-http://s1.merlive.am/Kinoujas/index.m3u8
+http://s7.merlive.am/Kinoujas/index.m3u8
 #EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-name="Kuriakos Cine" tvg-logo="https://i.imgur.com/CZViCwB.jpg" tvg-country="PT" tvg-language="por" group-title="Movies",Kuriakos Cine (1080p)
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LollywoodHDTV.cd" tvg-name="Lollywood HD TV" tvg-logo="https://i.imgur.com/fQhrsdr.png" tvg-country="CD" tvg-language="fra" group-title="Movies",Lollywood HD TV
@@ -10687,7 +10687,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNBonumTV.hu" tvg-name="EWTN/Bonum TV" tvg-logo="https://i.imgur.com/LdsRz2E.png" tvg-country="HU" tvg-language="hun" group-title="Religious",EWTN/Bonum TV
 https://dash2.antik.sk/live/ewtn_bonum/index.m3u8
 #EXTINF:-1 tvg-id="EWTNEspana.es" tvg-name="EWTN Espana" tvg-logo="https://i.imgur.com/KvpMbkd.png" tvg-country="ES" tvg-language="spa" group-title="Religious",EWTN Espana
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
+https://1211313014.rsc.cdn77.org/1211313014/index.m3u8
 #EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-name="EWTN Poland" tvg-logo="https://i.imgur.com/VtKYELf.png" tvg-country="PL" tvg-language="pol" group-title="Religious",EWTN Poland (1080p)
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNUkraine.ua" tvg-name="EWTN Ukraine" tvg-country="UA" tvg-language="ukr" group-title="Religious",EWTN Ukraine (1080p)
@@ -11593,7 +11593,7 @@ https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru" tvg-name="NTV-Hit" tvg-logo="https://i.imgur.com/FfKBvz5.png" tvg-country="RU" tvg-language="rus" group-title="Series",NTV-Hit (576p)
 http://178.134.1.158:8081/ntvhit/index.m3u8
 #EXTINF:-1 tvg-id="NTVSeries.ru" tvg-name="NTV Series" tvg-logo="https://i.imgur.com/QdVa8tl.png" tvg-country="RU" tvg-language="rus" group-title="Series",NTV Series (576p)
-http://stream.mcquack.net/301/index.m3u8
+http://s7.merlive.am/NTVSerial/index.m3u8
 #EXTINF:-1 tvg-id="Numb3rs.se" tvg-name="Numb3rs" tvg-logo="https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png" tvg-country="SE" tvg-language="eng;swe" group-title="Series",Numb3rs
 https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8
 #EXTINF:-1 tvg-id="Numbers.se" tvg-name="Numbers" tvg-logo="https://images.pluto.tv/channels/62bebb3a67307900077a7f9d/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="Series",Numbers (Sweden)
